@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b35c7931-9b2f-46a4-a629-d907a2082643",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "map4touch": {
+      "ver": "1.0.3",
+      "uuid": "3702f8ac-879b-4bca-a741-2665a0f245b0",
+      "rawTextureUuid": "b35c7931-9b2f-46a4-a629-d907a2082643",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 187,
+      "offsetY": -110.5,
+      "trimX": 374,
+      "trimY": 221,
+      "width": 0,
+      "height": 0,
+      "rawWidth": 374,
+      "rawHeight": 221,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

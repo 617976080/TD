@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "15a92f7d-057c-4e76-b776-de0c36d9e9e2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "map1touch": {
+      "ver": "1.0.3",
+      "uuid": "a9d2e9be-3d23-4150-9947-a10edf76602f",
+      "rawTextureUuid": "15a92f7d-057c-4e76-b776-de0c36d9e9e2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 111,
+      "offsetY": -219,
+      "trimX": 222,
+      "trimY": 438,
+      "width": 0,
+      "height": 0,
+      "rawWidth": 222,
+      "rawHeight": 438,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

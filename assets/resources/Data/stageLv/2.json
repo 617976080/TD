@@ -1,0 +1,49 @@
+{
+  "enemyWaves" : [
+    {
+      "wayId" : 0,
+      "enemies" : [
+        {
+          "time": 0,
+          "enemyId" : "deer"
+        },
+        {
+          "time": 1.6,
+          "enemyId" : "deer"
+        },
+        {
+          "time": 3.2,
+          "enemyId" : "deer"
+        },
+        {
+          "time": 4.8,
+          "enemyId" : "deer"
+        }
+      ]
+    },
+    {
+      "wayId" : 1,
+      "enemies" : [
+        {
+          "time": 0,
+          "enemyId" : "stone"
+        },
+        {
+          "time": 1.6,
+          "enemyId" : "stone"
+        },
+        {
+          "time": 3.2,
+          "enemyId" : "stone"
+        },
+        {
+          "time": 4.8,
+          "enemyId" : "stone"
+        }
+      ]
+    }
+  ],
+  "money" : 1200,
+  "towers" : ["windTower","iceTower"],
+  "stageHP" : 5
+}

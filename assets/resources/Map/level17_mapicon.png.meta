@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b7ec94c2-7e92-4641-8869-01f3ae97694e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "level17_mapicon": {
+      "ver": "1.0.3",
+      "uuid": "356516db-9edf-4834-af6d-94040c2fbf8a",
+      "rawTextureUuid": "b7ec94c2-7e92-4641-8869-01f3ae97694e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -115.5,
+      "offsetY": 26,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 281,
+      "height": 202,
+      "rawWidth": 512,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

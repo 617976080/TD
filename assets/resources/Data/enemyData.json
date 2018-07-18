@@ -1,0 +1,20 @@
+[
+  {
+    "id" : "deer",
+    "name" : "雄鹿",
+    "maxMoveSpeed" : "high",
+    "PD" : "low",
+    "MD" : "middle",
+    "maxHP" : "middle",
+    "reward" : 100
+  },
+  {
+    "id" : "stone",
+    "name" : "岩石巨人",
+    "maxMoveSpeed" : "low",
+    "PD" : "high",
+    "MD" : "low",
+    "maxHP" : "low",
+    "reward" : 200
+  }
+]

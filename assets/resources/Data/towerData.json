@@ -1,0 +1,38 @@
+[
+  {
+    "id" : "iceTower",
+    "name": "冰霜塔",
+    "detail": [
+      {
+        "range" : 2,
+        "weakSpeedSecond" : 3,
+        "cast" : 150,
+        "spawnAttack" : true
+      },
+      {
+        "range" : 2,
+        "cast" : 270,
+        "weakSpeedSecond" : 3,
+        "spawnAttack" : true
+      }
+    ]
+  },
+  {
+    "id" : "windTower",
+    "name" : "风来炮",
+    "detail" : [
+      {
+        "range" : 5,
+        "PA" : 80,
+        "cast" : 340,
+        "spawnAttack" : false
+      },
+      {
+        "range" : 8,
+        "cast" : 540,
+        "PA" : 120,
+        "spawnAttack" : false
+      }
+    ]
+  }
+]

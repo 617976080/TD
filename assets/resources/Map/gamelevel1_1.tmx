@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="12" height="8" tilewidth="80" tileheight="80" nextobjectid="20">
+ <tileset firstgid="1" name="level1_1bg" tilewidth="80" tileheight="80" tilecount="96" columns="12">
+  <tileoffset x="-2" y="0"/>
+  <image source="level1_1bg.jpg" width="960" height="640"/>
+  <tile id="12">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="13">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="28">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="29">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="30">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="31">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="32">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="33">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="34">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="37">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="38">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="39">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="40">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="41">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="42">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="43">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="44">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="45">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="46">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="47">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="48">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="49">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="50">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="52">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="53">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="54">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="55">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="56">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="57">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="58">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="59">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="60">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="61">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="62">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="63">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="64">
+   <properties>
+    <property name="tiletype" value="0"/>
+   </properties>
+  </tile>
+  <tile id="65">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="66">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="67">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="74">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="75">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+  <tile id="76">
+   <properties>
+    <property name="tiletype" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Background" width="12" height="8">
+  <data encoding="base64" compression="zlib">
+   eJwNw4c2QgEAANCHjMjIlkjLStmVWWTPSiH7/7/CvefcriAIuu0xZK999jtg2EGHjDjsiKOOGXXcCSedctoZZ50z5rxxF1w04ZJJU6bNmHXZFVddc92cG+YtuOmW2+646577Fi1Z9sBDjzz2xFMrVj3z3JoXXnrltTfeeue9Dz765LN1GzZ9sWXbV998t+OHn3757Y+//vkPSocSMQ==
+  </data>
+ </layer>
+ <objectgroup name="Objects" visible="0">
+  <object id="2" name="bluemushroom.png" x="36" y="247"/>
+  <object id="3" name="gress1.png" x="215" y="211"/>
+  <object id="4" name="gress1.png" x="71" y="525"/>
+  <object id="5" name="lanflower.png" x="128" y="545"/>
+  <object id="6" name="lanflower.png" x="252" y="574"/>
+  <object id="7" name="lanflower.png" x="510" y="505"/>
+  <object id="8" name="gress1.png" x="863" y="482"/>
+  <object id="9" name="gress1.png" x="744" y="612"/>
+  <object id="10" name="waterfall" x="462" y="58"/>
+  <object id="11" name="waterfall" x="672" y="74"/>
+  <object id="12" name="leaf.png" x="545" y="52"/>
+  <object id="13" name="gresses.png" x="469" y="534"/>
+  <object id="14" name="hero" x="271" y="371"/>
+  <object id="18" name="end" x="840" y="200" width="40" height="20"/>
+ </objectgroup>
+ <objectgroup name="starts" visible="0">
+  <object id="19" name="start" x="40" y="120" width="20" height="20"/>
+ </objectgroup>
+</map>

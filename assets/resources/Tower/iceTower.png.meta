@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "17788fff-6227-4e6d-8e08-ecca29b38f6e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "iceTower": {
+      "ver": "1.0.3",
+      "uuid": "c40ab548-3f88-40f4-b977-a5310ddb88e4",
+      "rawTextureUuid": "17788fff-6227-4e6d-8e08-ecca29b38f6e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 511,
+      "height": 512,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

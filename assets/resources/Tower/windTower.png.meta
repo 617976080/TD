@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "647eaac8-b0b9-4be6-96b7-874b0a9bed8a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "windTower": {
+      "ver": "1.0.3",
+      "uuid": "000a8d6f-4555-4f4e-a648-67f3c3aa46ff",
+      "rawTextureUuid": "647eaac8-b0b9-4be6-96b7-874b0a9bed8a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 134,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1020,
+      "height": 1776,
+      "rawWidth": 1024,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
